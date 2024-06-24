@@ -48,6 +48,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
+## License
+
+This project is licensed under the MIT License. By using or distributing this software, you agree to the terms and conditions of this license. See the [LICENSE](LICENSE) file for more details.
+
 ## Author
 
-Makam Devansh
+This project was created by [Makam Devansh](https://github.com/MakamDevansh044). Feel free to reach out or open an issue if you have any questions or feedback.
+
